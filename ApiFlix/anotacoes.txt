@@ -1,0 +1,40 @@
+# Criar o projeto
+- Dentro da pasta ApiFlix rode o comando
+- npm init (para criar o package.json)
+
+# Instale o express (framework para lidar com servidor em Node.js)
+- yarn add express ( para criar a pasta node_modules)
+
+# Inicializar o servidor rode o comando
+- node index.js
+- localhost:3000
+
+# Nodemon (faz o refresh automatico do servidor)
+- yarn global add nodemon
+
+# Feacture (mostra o log dos parametros que foram enviados ao servidor)
+- yarn add morgan
+
+# Documentação w3schools
+- Node.Js
+- Node.js MongoDB
+
+# Lib para traduzir para o json encode ou url encode
+- yarn add body-parser
+
+# (Mongoose) - Framework javascript pra trabalhar com mongoDb 
+- yarn add mongoose
+
+# UML (Diagramas relacionais)
+- draw.io
+
+# Populando as tabelas do MongoDB com Scripts, rode no terminal o seguinte comando
+- node src/scripts/addUsers.js
+- node src/scripts/addFilmes.js
+
+# CORS (Observação)
+- yarn add cors
+
+# Lib (underscore) - trabalha com operaçoes matematicas e arrays e misturar
+- yarn add underscore
+- underscorejs.org (site da documentação)

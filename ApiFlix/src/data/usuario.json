@@ -1,0 +1,22 @@
+[
+  {
+    "nome": "Jailson Santos",
+    "email": "jailson@gmail.com",
+    "senha": "123"
+  },
+  {
+    "nome": "Juliana Righi",
+    "email": "juliana@teste.com",
+    "senha": "123"
+  },
+  {
+    "nome": "Omar Lopes",
+    "email": "omar@teste.com",
+    "senha": "123"
+  },
+  {
+    "nome": "Mikael Lopes",
+    "email": "mikael@teste.com",
+    "senha": "123"
+  }
+]

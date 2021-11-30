@@ -1,0 +1,401 @@
+[
+  {
+    "titulo": "Enola Holmes",
+    "tipo": "serie",
+    "capa": "https://i.imgur.com/QGgXFl6.png",
+    "logo": "https://i.imgur.com/ZqxNOCO.png",
+    "thumb": "https://i.imgur.com/tPqnpDv.jpg",
+    "descricao": "Enola Holmes é um filme de mistério de 2020, baseado na série literária homônima de Nancy Springer, dirigido por Harry Bradbeer e escrito por Jack Thorne, onde conta a história de Enola Holmes, uma adolescente que fará de tudo para encontrar a mãe desaparecida, inclusive despistar o irmão, Sherlock Holmes, e ajudar um jovem lorde fugitiv",
+    "generos": [
+      "Filmes para toda a familia",
+      "Obras de época",
+      "Filmes baseados em livros."
+    ],
+    "elenco": [
+      "Millie Bob Brown",
+      "Henry Cavill",
+      "Sam Claflin"
+    ],
+    "cenas_momentos": [
+      "Espirituosos",
+      "Suspense no ar",
+      "Empolgantes"
+    ]
+  },
+  {
+    "titulo": "Grey's Anathomy",
+    "tipo": "serie",
+    "capa": "https://i.imgur.com/mPztp9C.jpg",
+    "logo": "https://i.imgur.com/Uy3KxUI.png",
+    "thumb": "https://i.imgur.com/kGMEeXT.png",
+    "descricao": "Um grupo de jovens médicos do Hospital Seattle Grace e suas carreiras como residentes. Um dos médicos, que se esforça para se relacionar com seus colegas, é a filha de um famoso cirurgião.",
+    "generos": [
+      "Dramas românticos para TV",
+      "Séries dramáticas",
+      "Séries do EUA"
+    ],
+    "elenco": [
+      "Ellen Pompeo",
+      "Sandra Oh",
+      "Katherine Heigl"
+    ],
+    "cenas_momentos": [
+      "Comoventes",
+      "Românticos"
+    ]
+  },
+  {
+    "titulo": "Gotham",
+    "tipo": "serie",
+    "capa": "https://i.imgur.com/iDm1pXK.jpg",
+    "logo": "https://i.imgur.com/oytW0ZC.png",
+    "thumb": "https://i.imgur.com/D6vEM6k.png",
+    "descricao": "O tenente James Gordon chega a Gotham com o intuito de combater a corrupção. Gordon tenta fazer a diferença e começa investigando o assassinato de Thomas e Martha Wayne, cujas mortes deixaram órfão seu filho Bruce.",
+    "generos": [
+      "Séries dramáticas sobre crimes",
+      "Séries basiadas em HQ",
+      "Séries dramáticas"
+    ],
+    "elenco": [
+      "Ben MacKenzie",
+      "Donal Logue",
+      "Jada Pinkett Smith"
+    ],
+    "cenas_momentos": [
+      "Vigoroso",
+      "Empolgantes"
+    ]
+  },
+  {
+    "titulo": "Breaking Bad",
+    "tipo": "serie",
+    "capa": "https://i.imgur.com/EJyDFeY.jpg",
+    "logo": "https://i.imgur.com/4xN7wB8.png",
+    "thumb": "https://i.imgur.com/smFnAR5.png",
+    "descricao": "O professor de química Walter White não acredita que sua vida possa piorar ainda mais. Quando descobre que tem câncer terminal, Walter decide arriscar tudo para ganhar dinheiro enquanto pode, transformando sua van em um laboratório de metanfetamina.",
+    "generos": [
+      "Séries dramáticas sobre crimes",
+      "Suspense para TV",
+      "Séries dramáticas"
+    ],
+    "elenco": [
+      "Brayan Cranston",
+      "Aaron Paul",
+      "Anna Gunn"
+    ],
+    "cenas_momentos": [
+      "Violentos",
+      "Realistas",
+      "Sombrios"
+    ]
+  },
+  {
+    "titulo": "The Umbrella Academy",
+    "tipo": "serie",
+    "capa": "https://i.imgur.com/tGKxkFz.jpg",
+    "logo": "https://i.imgur.com/gbLdK3F.png",
+    "thumb": "https://i.imgur.com/ErM4aCe.jpg",
+    "descricao": "Com a morte do pai, irmãos com poderes extraordinários se reencontram e descobrem surpreendentes segredos de família, além de uma ameaça iminente à humanidade.",
+    "generos": [
+      "Séries de ficcão científica",
+      "Séries basiadas em HQ",
+      "Séries do EUA"
+    ],
+    "elenco": [
+      "Ellen Page",
+      "Tom Hopper",
+      "David Castañeda"
+    ],
+    "cenas_momentos": [
+      "Realidade alternativa",
+      "Excêntricos",
+      "Peculiares"
+    ]
+  },
+  {
+    "titulo": "Tropa de Elite",
+    "tipo": "filme",
+    "capa": "https://i.imgur.com/Sjxgn3y.jpg",
+    "logo": "https://i.imgur.com/oDHGhpX.png",
+    "thumb": "https://i.imgur.com/aMNtnxW.png",
+    "descricao": "O capitão da força especial da Polícia Militar do Rio de Janeiro treina dois recrutas novatos para que possam sucedê-lo.",
+    "generos": [
+      "Filmes baseados em livros.",
+      "Ação e aventura",
+      "Suspense de ação"
+    ],
+    "elenco": [
+      "Wagner Moura",
+      "André Ramiro",
+      "Caio Junqueira"
+    ],
+    "cenas_momentos": [
+      "Adrenalina",
+      "Realistas",
+      "Violentos"
+    ]
+  },
+  {
+    "titulo": "Lúcifer",
+    "tipo": "serie",
+    "capa": "https://i.imgur.com/b2zLfsL.jpg",
+    "logo": "https://i.imgur.com/o7QZgVQ.png",
+    "thumb": "https://i.imgur.com/UOjMVEO.jpg",
+    "descricao": "Lucifer está entediado e infeliz como o Senhor do Inferno e decide tirar férias em Los Angeles, onde vira dono de uma casa noturna com ajuda de sua serva Mazikeen.",
+    "generos": [
+      "Séries dramáticas sobre crimes",
+      "Séries de fantasia",
+      "Séries basiadas em HQ"
+    ],
+    "elenco": [
+      "Tom Ellis",
+      "Lauren German",
+      "Kevin Alejandro"
+    ],
+    "cenas_momentos": [
+      "Irreverentes",
+      "Empolgantes"
+    ]
+  },
+  {
+    "titulo": "Peaky Blinders",
+    "tipo": "serie",
+    "capa": "https://i.imgur.com/HOOt0ZR.jpg",
+    "logo": "https://i.imgur.com/yhjZgM3.png",
+    "thumb": "https://i.imgur.com/lOnb2zZ.jpg",
+    "descricao": "Série sobre uma família de gângsteres na Inglaterra no começo do século 20.",
+    "generos": [
+      "Séries dramáticas sobre crimes",
+      "Obras de época",
+      "Séries britânicas"
+    ],
+    "elenco": [
+      "Cillian Murphy",
+      "Sam Neill",
+      "Helen MacCrory"
+    ],
+    "cenas_momentos": [
+      "Violentos",
+      "Vigoroso"
+    ]
+  },
+  {
+    "titulo": "O Diabo de Cada Dia",
+    "tipo": "filme",
+    "capa": "https://i.imgur.com/88RFIe9.jpg",
+    "logo": "https://i.imgur.com/WaSZvXT.png",
+    "thumb": "https://i.imgur.com/HhJZwQc.jpg",
+    "descricao": "Ambientada entre a Segunda Guerra Mundial e a Guerra do Vietnã, O Diabo de Cada Dia acompanha diversos personagens num canto esquecido de Ohio, os quais a vida acabam se conectando. Willard Russell (Bill Skarsgård) é um atormentado veterano, sobrevivente de uma carnificina, que não consegue salvar sua bela esposa de uma morte agonizante por conta de um câncer, mesmo com toda a oração e devoção de sua parte. Enquanto isso, Carl (Jason Clarke) e Sandy Henderson (Riley Keough), um casal de assassinos em série, percorrem as rodovias americanas em busca de modelos adequadas para fotografar e exterminar. E no meio disso tudo está Arvin Russell (Tom Holland), filho órfão de Willard e Charlotte (Haley Bennett), que cresceu para ser um homem bom mas começa a demonstrar comportamentos violentos quando passa a desconfiar que o líder religioso da cidade, Preston Teagardin (Robert Pattinson), é uma farsa.",
+    "generos": [
+      "Filmes baseados em livros",
+      "Dramas",
+      "Dramas policiais"
+    ],
+    "elenco": [
+      "Tom Holland",
+      "Bill Skarsgard",
+      "Rillei Keough"
+    ],
+    "cenas_momentos": [
+      "Sinistros",
+      "Sombrios"
+    ]
+  },
+  {
+    "titulo": "O Atirador",
+    "tipo": "filme",
+    "capa": "https://i.imgur.com/2AyivZl.jpg",
+    "logo": "https://i.imgur.com/iZYZ4Oz.png",
+    "thumb": "https://i.imgur.com/i0UA8nY.jpg",
+    "descricao": "O atirador Marksman Bob Lee Swagger deixa o exército e desaparece sem deixar rastros. Ele volta para impedir o assassinato do Presidente dos Estados Unidos, mas é enganado e passa a ser perseguido como criminoso.",
+    "generos": [
+      "Séries dramáticas sobre crimes",
+      "Séries baseados em livros",
+      "Séries dramáticas"
+    ],
+    "elenco": [
+      "Ryan Phillippe",
+      "Omar Epps",
+      "Cynthia Addai-Robbinson"
+    ],
+    "cenas_momentos": [
+      "Vigoroso"
+    ]
+  },
+  {
+    "titulo": "The Old Guard",
+    "tipo": "filme",
+    "capa": "https://i.imgur.com/2xx9J0i.jpg",
+    "logo": "https://i.imgur.com/IeR5h4p.png",
+    "thumb": "https://i.imgur.com/aPfybIk.jpg",
+    "descricao": "The Old Guard é um filme de ação e ficção científica de super-heróis americano de 2020 dirigido por Gina Prince-Bythewood e escrito por Greg Rucka, baseado na série de histórias em quadrinhos de mesmo nome de Rucka e ilustrado por Leandro Fernández.",
+    "generos": [
+      "Filmes baseados em livros",
+      "Ação e aventura",
+      "Suspense de ação"
+    ],
+    "elenco": [
+      "Charlize Theron",
+      "KiKi Layne",
+      "Marwan Kenzari"
+    ],
+    "cenas_momentos": [
+      "Realistas",
+      "Empolgantes"
+    ]
+  },
+  {
+    "titulo": "Até o Último Homem",
+    "tipo": "filme",
+    "capa": "https://i.imgur.com/M4NVavf.jpg",
+    "logo": "https://i.imgur.com/8owLMuZ.png",
+    "thumb": "https://i.imgur.com/KiNM9OY.png",
+    "descricao": "Acompanhe a história de Desmond T. Doss, um médico do exército americano que, durante a Segunda Guerra Mundial, se recusa a pegar em armas. Durante a Batalha de Okinawa ele trabalha na ala médica e salva cerca de 75 homens.",
+    "generos": [
+      "Filmes baseados na vida real",
+      "Dramas",
+      "Dramas militares"
+    ],
+    "elenco": [
+      "Vince Vaughn",
+      "Like Pegler",
+      "Firass Dirani"
+    ],
+    "cenas_momentos": [
+      "Violentos",
+      "Aqui tudo é possível",
+      "Comoventes"
+    ]
+  },
+  {
+    "titulo": "O Regresso",
+    "tipo": "filme",
+    "capa": "https://i.imgur.com/fte3dLt.jpg",
+    "logo": "https://i.imgur.com/AE5wiM7.png",
+    "thumb": "https://i.imgur.com/4D6QQxb.png",
+    "descricao": "Após ser atacado por um urso, o caçador Hugh Glass é abandonado na floresta por seu companheiro John Fitzgerald. Apesar de muito ferido, Glass consegue sobreviver e vai em busca de vingança.",
+    "generos": [
+      "Filmes baseados na vida real",
+      "Obras de época",
+      "Ação e aventura"
+    ],
+    "elenco": [
+      "Leonardo diCáprio",
+      "Tom Hardy",
+      "Domhnall Gleeson"
+    ],
+    "cenas_momentos": [
+      "Violentos",
+      "Realistas"
+    ]
+  },
+  {
+    "titulo": "The Ridiculous 6",
+    "tipo": "filme",
+    "capa": "https://i.imgur.com/FDpAkEE.jpg",
+    "logo": "https://i.imgur.com/yfzjg81.png",
+    "thumb": "https://i.imgur.com/P50CAau.jpg",
+    "descricao": "Para resgatar seu pai fora da lei, Tommy Faca Branca Stockburn parte em uma jornada através do velho oeste com cinco irmãos que ele nem sabia que existiam.",
+    "generos": [
+      "Faroeste",
+      "Ação e aventura"
+    ],
+    "elenco": [
+      "Adam Sendler",
+      "Terry Crews",
+      "Jorge Garcia"
+    ],
+    "cenas_momentos": [
+      "Besteirol"
+    ]
+  },
+  {
+    "titulo": "Justiceiro",
+    "tipo": "serie",
+    "capa": "https://i.imgur.com/eXbhbs4.jpg",
+    "logo": "https://i.imgur.com/TKwvurS.png",
+    "thumb": "https://i.imgur.com/pa4Sd2m.jpg",
+    "descricao": "O agente do FBI Frank Castle se transforma em um justiceiro após sua esposa e filho terem sido assassinados por criminosos. Ele é gravemente ferido no ataque e considerado morto por Howard Saint, que ordenou o golpe. Após sua recuperação, Castle se torna um vigilante fortemente armado que não para por nada até se vingar de Saint e desmoronar seu império.",
+    "generos": [
+      "Séries basiadas em HQ",
+      "Suspense para TV",
+      "Séries do EUA"
+    ],
+    "elenco": [
+      "Jon Bernthal",
+      "Ben Barnes",
+      "Amber Rose Revah"
+    ],
+    "cenas_momentos": [
+      "Realistas",
+      "Vigoroso"
+    ]
+  },
+  {
+    "titulo": "Em rítimo de fulga",
+    "tipo": "filme",
+    "capa": "https://i.imgur.com/DWxcN6m.jpg",
+    "logo": "https://i.imgur.com/nXaKDhu.png",
+    "thumb": "https://i.imgur.com/vH5MM6Z.png",
+    "descricao": "O talentoso motorista de fuga Baby confia nas batidas de sua própria trilha sonora para ser o melhor que existe. A música silencia um zumbido que o perturba desde um acidente na infância. Após conhecer a mulher dos seus sonhos, ele reconhece uma oportunidade de se livrar do estilo de vida questionável e recomeçar do zero. Obrigado a trabalhar para um chefão do crime, Baby lida com a música ao mesmo tempo em que um golpe fadado ao fracasso ameaça sua vida, seu amor e sua liberdade.",
+    "generos": [
+      "Filmes britânicos",
+      "Ação e aventura",
+      "Comédias de ação"
+    ],
+    "elenco": [
+      "Ansel Elgort",
+      "Kevin Spacey",
+      "Lily James"
+    ],
+    "cenas_momentos": [
+      "Excêntricos",
+      "Vigoroso",
+      "Empolgantes"
+    ]
+  },
+  {
+    "titulo": "Tróia",
+    "tipo": "filme",
+    "capa": "https://i.imgur.com/lDcF7c6.jpg",
+    "logo": "https://i.imgur.com/nI9wuJF.png",
+    "thumb": "https://i.imgur.com/mLck3pN.jpg",
+    "descricao": "O filme conta a história da batalha entre os reinos antigos de Troia e Esparta. Durante uma visita ao rei de Esparta, Menelau, o príncipe troiano Paris se apaixona pela esposa do rei, Helena, e a leva de volta para Troia. O irmão de Menelau, o rei Agamenon, que já havia derrotado todos os exércitos na Grécia, encontra o pretexto que faltava para declarar guerra contra Troia, o único reino que o impede de controlar o Mar Egeu.",
+    "generos": [
+      "Dramas românticos para TV",
+      "Séries baseados em livros",
+      "Séries britânicas"
+    ],
+    "elenco": [
+      "Louis Hunter",
+      "Bella Dayne",
+      "Frances O'Connor"
+    ],
+    "cenas_momentos": [
+      "Empolgantes",
+      "Românticos"
+    ]
+  },
+  {
+    "titulo": "O Durão",
+    "tipo": "filme",
+    "capa": "https://i.imgur.com/lVj3vnw.jpg",
+    "logo": "https://i.imgur.com/OWF2nWF.png",
+    "thumb": "https://i.imgur.com/UFhOXu0.png",
+    "descricao": "Quando o milionário James King é preso por fraude e deve cumprir pena em San Quentin, o juiz concede a ele 30 dias para organizar os seus negócios. Desesperado, ele procura Darnell Lewis para prepará-lo para a vida atrás das grades. Mas apesar das suposições de James, Darnell é um trabalhador nunca esteve em uma prisão. Juntos, os dois homens fazem todo o possível para tornar James durão e, no processo, descobrem como estavam enganados sobre muitas coisas, inclusive sobre eles mesmos.",
+    "generos": [
+      "Comédia",
+      "Comédias de fim de noite"
+    ],
+    "elenco": [
+      "Will Ferrell",
+      "Kevin Hart",
+      "Craig T. Nelson"
+    ],
+    "cenas_momentos": [
+      "Apimentados",
+      "Irreverentes",
+      "Besteirol"
+    ]
+  }
+]
